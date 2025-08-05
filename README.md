@@ -3,7 +3,7 @@
 
 FoodDash is a high-fidelity UI prototype for a modern food delivery application. Designed in Figma, it focuses on intuitive navigation, rich customization, and a seamless user experience — from meal selection to real-time delivery tracking.
 
-🎯 Objective
+🎯 OBJECTIVE
 
 
 
@@ -21,12 +21,12 @@ Visually appealing and accessible design
 Optimized user experience for mobile and desktop
 
 
-🌟 Key Screens & Features
+🌟 KEY SCREENS & FEATURES
 
 
 
 
-🏠 Home Page
+🏠 HOME PAGE
 
 
 
@@ -37,7 +37,7 @@ Active promotions and discounts
 Quick access to favorite and recent orders
 
 
-#output
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/88c53568-2d73-4370-bae8-ee3a97357dce)
 
@@ -45,7 +45,7 @@ Quick access to favorite and recent orders
 
 
 
-🍽️ Categories Page
+🍽️ CATEGORIES PAGE 
 
 
 
@@ -65,13 +65,13 @@ Browse various food types:
 
 ...and more!
 
-#output
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/e227f775-8f74-4300-b087-ab046ec78616)
 
 
 
-🍲 Custom Dish Page
+🍲 CUSTON DISH PAGE
 
 
 
@@ -83,12 +83,12 @@ Special instructions for customization
 
 Quantity selection and purchase button
 
-#output
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/bca914c4-726d-4f39-b1d9-3ec1c231fd5c)
 
 
-🚚 Order Status Page
+🚚 ORDER STATUS PAGE
 
 
 
@@ -98,13 +98,14 @@ Live delivery tracking (where your food is, when it’s arriving)
 
 Estimated delivery time
 
-#output
+
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/2a862526-3c99-4ef7-a856-a7206aba57a4)
 
 
 
-👤 Profile Page
+👤 PROFILE PAGE
 
 
 Manage personal information
@@ -115,14 +116,14 @@ Security settings (password, 2FA)
 
 Access to Help & Support
 
-#output
+#OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/4fc850eb-1384-4d29-ae94-04130fecc93d)
 
 
   
 
-🖼️ Built With
+🖼️ BUILT WITH
 
 
 
@@ -134,7 +135,7 @@ Design System: Custom components with a mobile-first layout
 Typography & Colors: Clean, modern, and accessible styles
 
 
-📌 Future Plans
+📌 FUTURE PLANS
 
 
 
