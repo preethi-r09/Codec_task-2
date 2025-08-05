@@ -6,6 +6,8 @@ FoodDash is a high-fidelity UI prototype for a modern food delivery application.
 🎯 Objective
 
 
+
+
 To create an engaging and responsive UI for a food delivery app with:
 
 Real-time order tracking
@@ -22,7 +24,10 @@ Optimized user experience for mobile and desktop
 🌟 Key Screens & Features
 
 
+
+
 🏠 Home Page
+
 
 
 Featured restaurants
@@ -34,7 +39,14 @@ Quick access to favorite and recent orders
 
 #output
 
+![Image](https://github.com/user-attachments/assets/88c53568-2d73-4370-bae8-ee3a97357dce)
+
+
+
+
+
 🍽️ Categories Page
+
 
 
 Browse various food types:
@@ -55,7 +67,12 @@ Browse various food types:
 
 #output
 
+![Image](https://github.com/user-attachments/assets/e227f775-8f74-4300-b087-ab046ec78616)
+
+
+
 🍲 Custom Dish Page
+
 
 
 Select dish size (Small, Medium, Large)
@@ -68,7 +85,11 @@ Quantity selection and purchase button
 
 #output
 
+![Image](https://github.com/user-attachments/assets/bca914c4-726d-4f39-b1d9-3ec1c231fd5c)
+
+
 🚚 Order Status Page
+
 
 
 View placed orders
@@ -78,6 +99,10 @@ Live delivery tracking (where your food is, when it’s arriving)
 Estimated delivery time
 
 #output
+
+![Image](https://github.com/user-attachments/assets/2a862526-3c99-4ef7-a856-a7206aba57a4)
+
+
 
 👤 Profile Page
 
@@ -92,9 +117,14 @@ Access to Help & Support
 
 #output
 
+![Image](https://github.com/user-attachments/assets/4fc850eb-1384-4d29-ae94-04130fecc93d)
 
+
+  
 
 🖼️ Built With
+
+
 
 
 Design Tool: Figma
@@ -105,6 +135,8 @@ Typography & Colors: Clean, modern, and accessible styles
 
 
 📌 Future Plans
+
+
 
 
 Build the UI using React Native or Flutter
